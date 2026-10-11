@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba48ad0-92e0-4c62-862b-83d8b2b3fb8d" name="Changes" comment="Tutorial 2: verified getter removal&#10;drops the field from JSON.">
+    <list default="true" id="9ba48ad0-92e0-4c62-862b-83d8b2b3fb8d" name="Changes" comment="Tutorial 2: Product UML class&#10;diagram added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,11 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\UOW\products-api\docs\uml" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,6 +98,7 @@
     <MESSAGE value="Tutorial 2: Product class and /products endpoint&#10;added" />
     <MESSAGE value="Tutorial 2: Product encapsulated with&#10;private fields and getters." />
     <MESSAGE value="Tutorial 2: verified getter removal&#10;drops the field from JSON." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 2: verified getter removal&#10;drops the field from JSON." />
+    <MESSAGE value="Tutorial 2: Product UML class&#10;diagram added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 2: Product UML class&#10;diagram added." />
   </component>
 </project>
