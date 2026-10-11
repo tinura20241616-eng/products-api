@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba48ad0-92e0-4c62-862b-83d8b2b3fb8d" name="Changes" comment="Tutorial 2: Customer and Address classes with&#10;association.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ba48ad0-92e0-4c62-862b-83d8b2b3fb8d" name="Changes" comment="Tutorial 2: Customer and Address classes with&#10;association." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
