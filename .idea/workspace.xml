@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ba48ad0-92e0-4c62-862b-83d8b2b3fb8d" name="Changes" comment="Tutorial 2: Product encapsulated with&#10;private fields and getters.">
-      <change beforePath="$PROJECT_DIR$/products-api/src/main/java/uk/ac/westminster/products_api/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/products-api/src/main/java/uk/ac/westminster/products_api/Product.java" afterDir="false" />
+    <list default="true" id="9ba48ad0-92e0-4c62-862b-83d8b2b3fb8d" name="Changes" comment="Tutorial 2: verified getter removal&#10;drops the field from JSON.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tutorial 2: Product class and /products endpoint&#10;added" />
     <MESSAGE value="Tutorial 2: Product encapsulated with&#10;private fields and getters." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 2: Product encapsulated with&#10;private fields and getters." />
+    <MESSAGE value="Tutorial 2: verified getter removal&#10;drops the field from JSON." />
+    <option name="LAST_COMMIT_MESSAGE" value="Tutorial 2: verified getter removal&#10;drops the field from JSON." />
   </component>
 </project>
